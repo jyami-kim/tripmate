@@ -4,9 +4,10 @@
 **[[Tripmate Link]](https://triptmate.firebaseapp.com)
 https://triptmate.firebaseapp.com**
 
-[시연영상](https://youtu.be/p34WFEOp3fE)
+**[[시연영상]](https://youtu.be/p34WFEOp3fE)
+https://youtu.be/p34WFEOp3fE**
 
-> 좀 더 편하게 보고싶다면? [[Tripmate WIKI]](https://github.com/jmini1234/tripmate/wiki)
+> readme를 좀 더 편하게 보고싶다면? [[Tripmate WIKI]](https://github.com/jmini1234/tripmate/wiki)
 
 ------
 
